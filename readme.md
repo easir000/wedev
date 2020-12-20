@@ -2,7 +2,7 @@
 
 ## Setting UP
 
-1. Run 'git clone https://github.com/lenard123/E-commerce-website-using-Laravel-and-VueJS E-Commerce'
+1. Run 'git clone https://github.com/easir000/wedev.git
 2. Run 'cd E-Commerce'
 3. Run 'composer install'
 4. Run 'cp .env.example .env' or Rename .env.example to .env
@@ -13,11 +13,23 @@
 9. Then Finally run 'php artisan serve'
 
 
-## Front End
+admin credentials
 
-In case you may want to edit the front-end Run 'npm install'
-then you can now modify the resource files of the front-end
-then to push the changes Run 'npm run dev'.
+URL::  localhost/admin
+user::admin 
+password:: admin
 
-## Demo
-Watch the system demo [here](https://youtu.be/A04RHY2YGBo).
+admin can add everything using admin panel then front part will be visible 
+============================================================
+
+
+user credentials can be creat manualy 
+
+
+========================
+
+jwt authenticated 
+
+
+
+
